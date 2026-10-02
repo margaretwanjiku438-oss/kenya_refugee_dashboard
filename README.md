@@ -7,6 +7,7 @@ An interactive Power BI dashboard analyzing Kenya's registered refugee and asylu
 
 **Live dashboard:** https://app.powerbi.com/view?r=eyJrIjoiMDFlMzU0NzgtNWIzMS00ZWNiLThiMzItMWNhZjM4ODM5NWViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
+
 ## Overview
 
 This project visualizes population trends, demographics, and registration activity for refugees and asylum-seekers hosted in Kenya, using UNHCR's Kenya Statistics Package (as of 31 August 2026). The dashboard was built end-to-end: source data cleaning, data modeling, and interactive visualization.
@@ -42,6 +43,12 @@ The original PDF statistics package was reshaped into clean, tidy tables (Year/L
 - **Somalia is the dominant country of origin**, consistently representing roughly 55% of the total population across the full 2022–2026 trend, followed by South Sudan.
 - **The working-age group (18–59) is the largest demographic segment**, making up approximately 46% of the total population.
 - Total registered population grew from **573,508 in 2022 to 871,568 in 2026**, with a notable plateau between 2024 and 2025 before climbing again into 2026.
+
+- Business Insights
+Population distribution: Compare refugee and asylum-seeker populations across locations to understand where the largest registered populations are hosted.
+Countries of origin: Examine changes in population by country of origin between 2022 and 2026.
+Demographic profile: Review age and gender distributions to understand the composition of the registered population.
+Registration trends: Use monthly registration data to identify periods of increased registration activity and investigate patterns over time
 
 ## Notes
 
