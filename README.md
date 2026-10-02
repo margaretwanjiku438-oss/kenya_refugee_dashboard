@@ -1,6 +1,9 @@
 # Kenya Refugee & Asylum-Seeker Population Dashboard
 
 An interactive Power BI dashboard analyzing Kenya's registered refugee and asylum-seeker population, built from UNHCR's official statistics.
+## Dashboard Preview
+
+![Kenya Refugee and Asylum-Seeker Population Dashboard](dashboard-screenshot.png)
 
 **Live dashboard:** https://app.powerbi.com/view?r=eyJrIjoiMDFlMzU0NzgtNWIzMS00ZWNiLThiMzItMWNhZjM4ODM5NWViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
